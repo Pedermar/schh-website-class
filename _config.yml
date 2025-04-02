@@ -1,11 +1,11 @@
-title: Website Title
+title: My New Website
 
 description: >
-  Website Description
+  My New Website for SCHH Website Class
 
 author:
-  name: Name
-  email: your-email@domain.com
+  name: Mark
+  email: Markpederson100@yahoo.com
 
 nav_pages:
   - about.md
