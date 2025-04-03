@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Post as a Test 2nd Attempt
+title: MARK - New Post as a Test 2nd Attempt
 description: Example post With Markdown text formatting-Mark.
 date: 2025-03-08
 author: John Doe
